@@ -8,9 +8,9 @@
     "text": "Milos Resimic"
   },
   "text": {
-    "more": "",
+    "more": "This is a network of retweets containing hashtag #koronavirus posted in Serbia and nearby (radius 500km). The nodes are sized based on indegree and colored based on modularity (the community to which a node belongs to, based on intensity of communication) ",
     "intro": "",
-    "title": "Cornavirus on twitter"
+    "title": "Twitterverse on koronavirus in Serbia and its neighbourhood"
   },
   "legend": {
     "edgeLabel": "Retweet",
